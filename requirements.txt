@@ -1,0 +1,10 @@
+pillow
+lxml
+jupyter
+matplotlib
+pandas
+numpy
+pycocotools
+keras_preprocessing
+opencv-python
+tensorflow-hub
